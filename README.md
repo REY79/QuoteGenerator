@@ -1,1 +1,1 @@
-# QuoteGenerator
+# JavaScript-Random-Quote-Generator
